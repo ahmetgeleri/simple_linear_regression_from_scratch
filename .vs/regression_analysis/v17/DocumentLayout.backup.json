@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AhmetG\\OneDrive\\Masa\u00FCst\u00FC\\regression_analysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74054459-6DB2-4859-A4DE-123EEC355CC8}|regression_analysis.pyproj|C:\\Users\\AhmetG\\OneDrive\\Masa\u00FCst\u00FC\\regression_analysis\\regression_analysis.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74054459-6DB2-4859-A4DE-123EEC355CC8}|regression_analysis.pyproj|solutionrelative:regression_analysis.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "regression_analysis.py",
+              "DocumentMoniker": "C:\\Users\\AhmetG\\OneDrive\\Masa\u00FCst\u00FC\\regression_analysis\\regression_analysis.py",
+              "RelativeDocumentMoniker": "regression_analysis.py",
+              "ToolTip": "C:\\Users\\AhmetG\\OneDrive\\Masa\u00FCst\u00FC\\regression_analysis\\regression_analysis.py",
+              "RelativeToolTip": "regression_analysis.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-12T12:19:57.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
